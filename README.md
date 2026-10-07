@@ -56,7 +56,8 @@ A meaningful share of freelancers (174 out of 1,000) have no recorded active sta
 
 ## Dashboard
 _(describe the dashboard here once built, e.g. what it visualizes)_
-_(screenshot: finished dashboard)_
+<img width="581" height="337" alt="Screenshot 2026-10-06 230049" src="https://github.com/user-attachments/assets/9086d906-27d0-4f16-a8ae-5cf7b73c5130" />
+
 
 ## Tools
 PostgreSQL, pgAdmin
